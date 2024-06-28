@@ -1,6 +1,4 @@
-👋  Hi, I’m Branden Ciranni
-
-I'm a BI Engineer on the Marketing Intelligence Team at Snowflake!
+👋  Hi, I’m Branden
 
 <!---
 sfc-gh-bciranni/sfc-gh-bciranni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
